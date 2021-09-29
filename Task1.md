@@ -48,10 +48,5 @@ Start of with the following HTML:
 - Highlight all paragraphs when the mouse moves over them (then revert back once it has moved past them).
     
 
-## Bonuses
-
-### Bonus 1
-
-Allow the user to select the width and the height!
 
 
