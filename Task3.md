@@ -10,6 +10,8 @@ Start of with the following:
 
 - Create a function which creates a drop-down menu with 25 option elements and add it to the HTML page you have created. Each option element should display the number of the option. `Use a loop`.
 
+## Bonus: 
+
 - Create a calculator:
 	- It should have the layout similar to the calculator on your computer.
     - Use CSS to help you style the layout.
